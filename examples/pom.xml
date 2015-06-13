@@ -11,6 +11,6 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>amazeui</module>
+        <module>quickstart</module>
     </modules>
 </project>
